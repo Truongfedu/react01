@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "name":"Anh Truong",
+        "tel":"0961124430",
+        "Permission":3
+
+    },
+    {
+        "id":2,
+        "name":"Anh Tuan",
+        "tel":"01666131085",
+        "Permission":2
+
+    },
+    {
+        "id":3,
+        "name":"Anh Huy",
+        "tel":"09348848488",
+        "Permission":1
+
+    },
+    {
+        "id":4,
+        "name":"Anh Cuong",
+        "tel":"0961124430",
+        "Permission":4
+
+    },
+    {
+        "id":5,
+        "name":"Anh Dung",
+        "tel":"0961124430",
+        "Permission":3
+
+    }
+
+]
+    
